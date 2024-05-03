@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+body {
+    /* Add padding-top to account for the fixed header */
+    /* padding-top: 60px; */
+}
+
+#navbar {
+    height: 60px;
+    background-color: black;
+}
+
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    /* Remove margin-right to prevent overlap */
+}
+
+button {
+    background-color: #f08804;
+}
+
+.Sachin {
+    height: 100px;
+    width: 100px;
+    /* Add some styles to make the content visible */
+    background-color: rgba(255, 0, 0, 0.5); /* Add a background color for visibility */
+    margin: 10px; /* Add some margin for spacing */
+    border: 2px solid black;
+    display: inline-block;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+
+}
+
+#content{
+    height: 500px;
+}

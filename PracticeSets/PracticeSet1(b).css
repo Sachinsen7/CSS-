@@ -1,0 +1,20 @@
+.heading{
+    color: red;
+}
+
+p{
+    text-align: center;
+   
+}
+
+h1{
+    text-align: center;
+    text-decoration: black dotted underline;
+    /* text-decoration: black underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+}
+
+a{
+    text-decoration: none;
+}
