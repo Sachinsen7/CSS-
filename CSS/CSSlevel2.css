@@ -1,0 +1,57 @@
+div{
+    height: 40px;
+    background-color: red;
+}
+
+
+div{
+    width: 70px;
+    border-radius: 10px;
+    border-radius: 20%;
+}
+
+h1{
+    width: 200px;
+    height: 50px;
+    background-color: #ffff00;
+}
+
+h2{
+    
+    /*border-width: 10px;
+    border-style: solid;
+    border-color: brown;*/
+    border: 5px solid gray;
+    text-align: center;
+}
+
+h3{
+    width: 200px;
+   background-color: pink; 
+   border-width: 3px;
+   border-style: dashed;
+   border-color: tomato;
+   text-align: center;
+}
+
+p{
+    height: 100px;
+    width: 100px;
+    background-color: turquoise;
+    border: 2px solid brown;
+    /*padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;*/
+    border-radius: 80%;
+    padding: 25px;
+}
+
+button{
+      height: 100px;
+      width: 100px;
+      background-color: rgb(13, 255, 0);
+      margin-top: 50px;
+      margin: 20px;
+}
+

@@ -1,0 +1,22 @@
+*{
+    color: hotpink;
+}
+
+button{
+    color: rgb(255, 0, 0);
+}
+
+/*SELECTORS id selector*/
+#HeadingOne{
+    color: black;
+}
+
+#HeadingTwo{
+    color: brown;
+}
+
+
+/* Class Selector */
+.myClass{
+    color: coral;
+}

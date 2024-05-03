@@ -1,0 +1,28 @@
+#Sachin{
+    font-weight: 100;
+}
+
+#Karan{
+    font-weight: 250;
+}
+
+#Shahnai{
+    /* font-weight: bolder; */
+       font-weight: 600;
+}
+
+#Ishwar{
+     font-weight: 900;
+}
+
+P{
+    text-align: center;
+}
+
+#one {
+    font-family: arial;
+}
+
+#two{
+    font-family: 'segoe-ui';
+}

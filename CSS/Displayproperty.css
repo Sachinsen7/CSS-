@@ -1,0 +1,25 @@
+div{
+    /* display: inline; */
+height: 100px;
+width: 100px;
+margin: 25px;
+padding: 25px;
+display: inline-block;
+}
+
+#Sachin{
+
+    background-color: orangered;
+}
+
+#Karan{
+
+    background-color: white;
+    border-style: solid;
+    /* display: none; */
+}
+
+#Shahnai{
+
+    background-color: green;
+}

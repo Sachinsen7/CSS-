@@ -1,0 +1,64 @@
+#box1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    display: inline-block;
+    background-image: url(Iphone_apple.jpg.jpg);
+    background-size: cover;
+}
+
+body{
+    background-image: url(Iphone_apple.jpg.jpg);
+    background-size: contain;
+
+}
+
+#box2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+#box3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    display: inline-block;
+
+}
+
+
+#box4{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    display: inline-block;
+
+}
+
+
+#box4{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+
+
+#box5{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+
+
